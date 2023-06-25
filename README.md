@@ -21,7 +21,7 @@
 
 ![Screenshot 2023-06-25 150811](https://github.com/rahulbbbb/Kanban-Board/assets/124687528/d8e519b2-1c0f-45f2-acf1-14a95018d9b5)
 
-![Uploading Screenshot 2023-06-22 210706.png…]()
+![Screenshot 2023-06-22 210706](https://github.com/rahulbbbb/Kanban-Board/assets/124687528/9f7e7dd8-af52-48de-9c75-21909ec7ea84)
 
 ![Screenshot 2023-06-25 151015](https://github.com/rahulbbbb/Kanban-Board/assets/124687528/caf497be-c545-4561-b184-d8a739296a5c)
 
@@ -37,7 +37,7 @@
 4. React-Router-Dom
 
 ## Collaborators:
-1. Sachin Chaturvedi https://github.com/Sachin2903
+1. Rahul Bankoti https://github.com/rahulbbbb
 2. Apurva somani https://github.com/apurva999
 3. Shadman khan https://github.com/ShadmanKhan007
-4. Rahul Bankoti https://github.com/rahulbbbb
+4. Sachin Chaturvedi https://github.com/Sachin2903
