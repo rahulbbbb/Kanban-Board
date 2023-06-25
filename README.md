@@ -1,4 +1,4 @@
-# Kanban Board Project: (using React)
+# Kanban Board Project: (using React-Redux)
 
 * Step into the realm of productivity and organization with the magnificent Kanban Board! With its visual allure and captivating charm, this remarkable tool unveils a world where work thrives efficiently and triumphs effectively. Behold as the board gracefully visualizes the workflow, painting a vivid picture of every task's status. Each course and subject shall have its own board, adorned with columns that breathe life into the task's lifecycle—To Do, In Progress, and Done—like a symphony of progress.
 
