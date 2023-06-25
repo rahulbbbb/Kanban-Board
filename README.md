@@ -14,7 +14,9 @@
 # Some Glimpses
 
 ![Kanban_Board (2)](https://github.com/Sachin2903/Kanban_Board_clone/assets/92660783/a6ebdc65-6f1f-40d7-99c8-7b5219e23b07)
-![Kanban_Board (3)](https://github.com/Sachin2903/Kanban_Board_clone/assets/92660783/05283a28-b6a9-4447-a8d2-79cb7f777599)
+
+![Screenshot 2023-06-25 150936](https://github.com/rahulbbbb/Kanban-Board/assets/124687528/a50fb83e-6dab-4637-a34d-b4f3d696ef76)
+
 ![Kanban_Board (4)](https://github.com/Sachin2903/Kanban_Board_clone/assets/92660783/9a3c0e63-9a01-4b2e-98f0-374fbdfcb3b8)
 ![Kanban_Board (5)](https://github.com/Sachin2903/Kanban_Board_clone/assets/92660783/856a3093-c6b9-4493-86e3-3e3b2dd51c7e)
 ![Kanban_Board (6)](https://github.com/Sachin2903/Kanban_Board_clone/assets/92660783/dc02df46-8d33-4582-a252-50cb45b6a663)
