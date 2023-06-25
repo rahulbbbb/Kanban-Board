@@ -17,11 +17,16 @@
 
 ![Screenshot 2023-06-25 150936](https://github.com/rahulbbbb/Kanban-Board/assets/124687528/a50fb83e-6dab-4637-a34d-b4f3d696ef76)
 
-![Kanban_Board (4)](https://github.com/Sachin2903/Kanban_Board_clone/assets/92660783/9a3c0e63-9a01-4b2e-98f0-374fbdfcb3b8)
-![Kanban_Board (5)](https://github.com/Sachin2903/Kanban_Board_clone/assets/92660783/856a3093-c6b9-4493-86e3-3e3b2dd51c7e)
-![Kanban_Board (6)](https://github.com/Sachin2903/Kanban_Board_clone/assets/92660783/dc02df46-8d33-4582-a252-50cb45b6a663)
-![Kanban_Board (7)](https://github.com/Sachin2903/Kanban_Board_clone/assets/92660783/cedac882-1e94-4c2a-b805-1eb32c867c55)
-![Kanban_Board (8)](https://github.com/Sachin2903/Kanban_Board_clone/assets/92660783/ebfc2d41-d159-43e2-9cc1-cd55455dc826)
+![Screenshot 2023-06-25 150729](https://github.com/rahulbbbb/Kanban-Board/assets/124687528/e6b23d7b-654d-4b4b-8ffc-995cf99b567f)
+
+![Screenshot 2023-06-25 150811](https://github.com/rahulbbbb/Kanban-Board/assets/124687528/d8e519b2-1c0f-45f2-acf1-14a95018d9b5)
+
+![Uploading Screenshot 2023-06-22 210706.png…]()
+
+![Screenshot 2023-06-25 151015](https://github.com/rahulbbbb/Kanban-Board/assets/124687528/caf497be-c545-4561-b184-d8a739296a5c)
+
+![Screenshot 2023-06-25 151139](https://github.com/rahulbbbb/Kanban-Board/assets/124687528/b6969e73-7d68-483f-8deb-58db78ca2db4)
+
 
 
 
